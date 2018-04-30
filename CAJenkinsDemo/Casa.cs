@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace CAJenkinsDemo
 {
-    public class Produto
+    public class Casa
     {
         public int Id { get; set; }
         public string Nome { get; set; }
-        public Casa Casa { get; set; }
     }
 }
