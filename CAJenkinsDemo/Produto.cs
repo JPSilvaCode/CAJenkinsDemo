@@ -10,5 +10,6 @@ namespace CAJenkinsDemo
     {
         public int Id { get; set; }
         public string Nome { get; set; }
+        public casa cass { get; set; }
     }
 }
