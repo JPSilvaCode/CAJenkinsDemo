@@ -10,6 +10,8 @@ namespace CAJenkinsDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("testes");
+            Console.ReadKey();
         }
     }
 }
